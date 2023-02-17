@@ -1,0 +1,6 @@
+.img-fluid {
+    background-image: url(/pic/bgCate.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

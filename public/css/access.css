@@ -1,0 +1,6 @@
+.img-fluid {
+    background-image: url(/pic/bgAccess.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
